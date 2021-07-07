@@ -1,0 +1,18 @@
+.item {
+    border: 1px solid #efefef;
+    border-radius:6px;
+    width:250px;
+    display: inline-block;
+    margin-right: 15px;
+    margin-bottom: 20px;
+  }
+  
+
+.item .quantity-picker{
+    display:inline-block;
+}
+
+.item .btn-add{
+    display: inline-block;
+    margin-left:25px;
+}

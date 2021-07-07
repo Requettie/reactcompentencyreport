@@ -1,0 +1,9 @@
+.catalog-page{
+    flex-direction: row; 
+    width: 100%
+
+}
+
+.catalog-page .item {
+   display: inline-block;
+}

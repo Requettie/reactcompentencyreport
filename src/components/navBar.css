@@ -1,0 +1,15 @@
+.nav-page{
+    border:1px solid gray;
+}
+
+.navbar-page h6 {
+    color:darkblue;
+}
+
+.navbar-page button{
+    color:red;
+}
+
+.navbar-page .label-test{
+    font-weight: normal;
+}
